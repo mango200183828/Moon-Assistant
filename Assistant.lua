@@ -1,17 +1,3 @@
---[[
-    PROFESSIONAL BUILD ASSIST SUITE (STUDIO LITE COMPATIBLE)
-    Version: 2.0
-    Author: Senior Lua Engineer
-    
-    Architecture:
-    1. Services & Constants
-    2. State Management (Settings, Selection, History)
-    3. Math & Snapping Utils
-    4. Core Logic (Tools Implementation)
-    5. UI Engine (Procedural GUI)
-    6. Main Bootstrapper
-]]
-
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
